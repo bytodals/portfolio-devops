@@ -1,6 +1,6 @@
 # Portfolio - End-to-End DevOps Journey
 
-A modern, responsive portfolio website that demonstrates the full development process — from idea to production.
+A modern, responsive portfolio website that demonstrates the full development process, from idea to production.
 
 **Specialization project** with strong focus on DevOps practices.
 
