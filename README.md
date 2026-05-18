@@ -8,7 +8,7 @@ A modern, responsive portfolio website that demonstrates the full development pr
 (coming later)
 
 ## Project Goals
-- Showcase the entire journey from UX research to live deployment
+- Showcase the entire journey from design to live deployment
 - Deep dive into DevOps (Docker, CI/CD, automation)
 - Build a professional portfolio
 
