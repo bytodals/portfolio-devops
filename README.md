@@ -16,3 +16,4 @@ A modern, responsive portfolio website that demonstrates the full development pr
 (coming later)
 
 ## Project Structure
+(coming later)
