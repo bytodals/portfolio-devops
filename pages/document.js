@@ -4,7 +4,10 @@ export default function Document() {
   return (
     <Html lang="sv">
       <Head>
-        {/* Google Analytics */}
+        <meta name="description" content="Johanna Todal — UX Designer & Web Developer" />
+        <meta name="keywords" content="UX Designer, Web Developer, Figma, React, Portfolio, Johanna Todal" />
+        
+        {/* Google Analytics  */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
         <script
           dangerouslySetInnerHTML={{
