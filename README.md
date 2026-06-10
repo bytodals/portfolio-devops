@@ -1,19 +1,37 @@
-# Portfolio - End-to-End DevOps Journey
+# Portfolio & DevOps Dashboard
 
-A modern, responsive portfolio website that demonstrates the full development process, from idea to production.
+Modern, elegant and high-impact personal portfolio website.
 
-**Specialization project** with strong focus on DevOps practices.
+A futuristic cyber-inspired digital showcase of my work as a **UX Designer & aspiring Web Developer**.
 
-##  Live Demo
-(coming later)
+## Features
 
-## Project Goals
-- Showcase the entire journey from design to live deployment
-- Deep dive into DevOps (Docker, CI/CD, automation)
-- Build a professional portfolio
+- Responsive cyberpunk-inspired design with glow effects
+- Smooth scrolling navigation
+- Sections: Hero, Projects/Education, Experience, Skills, Contact
+- SEO optimized
+- Google Analytics integration
+- Ready for custom domain
 
 ## Tech Stack
-(coming later)
 
-## Project Structure
-(coming later)
+- **Next.js 13** (Pages Router)
+- React 18
+- Tailwind CSS (via custom CSS)
+- Google Analytics 4
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy (Vercel)
+
+1. Push to GitHub
+2. Visit [vercel.com](https://vercel.com) → Import Git Repository
+3. Add enviromental variables in Vercel Dashboard (NEXTAUTH_SECRET etc.)
+4. Deploy done!
+
+Live-link: https://your-portfolio.vercel.app
